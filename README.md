@@ -1,8 +1,7 @@
 # project3
-Product Analytics Capstone: User Behaviour &amp; Catalog Insights
+End-to-End Product Analytics: Mobile App & Subscription Service
 
-Part 1 — Python
-# User Behavior Analysis in a Mobile Marketplace App: From Sessions to Conversion
+# Part 1 (Python): User Behavior Analysis in a Mobile Marketplace App: From Sessions to Conversion
 This is the graduation project of the Data Analyst track at the Yandex Practicum platform. In this project I worked as an analyst at the mobile application "Unused Items," a marketplace where users sell their unwanted items by posting them on the platform. Event-level data on user actions, install sources, and timestamps was provided for users whose first action took place after October 7, 2019. The task was to study the relationship between user behavior — the sequence of actions performed in the app — and the final conversion to viewing seller contact information, and to derive UX hypotheses for the product team.
 
 ## Technical Project Description
@@ -36,8 +35,7 @@ The results supported the first hypothesis (clear difference in conversion) and 
 - Translating analytical findings into UX/product recommendations
 
 
-Part 2 — SQL
-# Book Subscription Service: SQL-Based Catalog and User Analysis
+# Part 2 (SQL): Book Subscription Service: SQL-Based Catalog and User Analysis
 This is the SQL portion of the graduation project of the Data Analyst track at the Yandex Practicum platform. In this project I worked as an analyst for a company that had just acquired a subscription-based book reading service. The PostgreSQL database contained five tables — books, authors, publishers, ratings, and reviews — covering 1,000 books published between 1952 and 2020, 636 authors, 340 publishers, 6,456 ratings, and 2,793 user reviews. The task was to explore this database with SQL in order to inform a value proposition for the new product.
 
 ## Technical Project Description
