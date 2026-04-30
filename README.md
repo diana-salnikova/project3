@@ -1,6 +1,3 @@
-# project3
-End-to-End Product Analytics: Mobile App & Subscription Service
-
 # Part 1 (Python): User Behavior Analysis in a Mobile Marketplace App: From Sessions to Conversion
 This is the graduation project of the Data Analyst track at the Yandex Practicum platform. In this project I worked as an analyst at the mobile application "Unused Items," a marketplace where users sell their unwanted items by posting them on the platform. Event-level data on user actions, install sources, and timestamps was provided for users whose first action took place after October 7, 2019. The task was to study the relationship between user behavior — the sequence of actions performed in the app — and the final conversion to viewing seller contact information, and to derive UX hypotheses for the product team.
 
